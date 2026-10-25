@@ -3,7 +3,7 @@
   "notes": "",
   "version": 1,
   "keyboard": "keychron/v1/ansi_encoder",
-  "keymap": "keychron_v1_ansi_encoder_layout_ansi_82_2026-10-25",
+  "keymap": "gavin",
   "layout": "LAYOUT_ansi_82",
   "layers": [
     [
@@ -426,6 +426,13 @@
       "KC_TRNS",
       "KC_TRNS"
     ]
+  ],
+  "encoders": [
+    [{"ccw": "KC_VOLD", "cw": "KC_VOLU"}],
+    [{"ccw": "RM_VALD", "cw": "RM_VALU"}],
+    [{"ccw": "KC_VOLD", "cw": "KC_VOLU"}],
+    [{"ccw": "KC_TRNS", "cw": "KC_TRNS"}],
+    [{"ccw": "RM_VALD", "cw": "RM_VALU"}]
   ],
   "author": ""
 }
